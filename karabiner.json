@@ -6,6 +6,7 @@
                 "rules": [
                     {
                         "description": "Emacs-style Ctrl+P / Ctrl+N to Arrow Up / Down",
+                        "enabled": false,
                         "manipulators": [
                             {
                                 "from": {
