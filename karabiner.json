@@ -98,6 +98,7 @@
                     },
                     {
                         "description": "Change Won (₩) to backtick (`).",
+                        "enabled": false,
                         "manipulators": [
                             {
                                 "conditions": [
